@@ -160,6 +160,7 @@ public class DequeueOnSequenceMVP<T> {
 
         out.println(train);
         out.println(splitTest);
+        out.println(removed);
 
         out.println();
         out.println();

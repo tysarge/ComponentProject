@@ -13,3 +13,13 @@ the following form: YYYY.0M.0D.
 - Designed a Dequeue on String component
 - Designed a Dequeue on Sequence component
 - Designed a Dequeue on Stack component
+
+## 2026.02.25
+
+### Added
+
+- Designed a proof of concept for dequeue on sequence component
+
+### Updated
+
+- Changed design to incldue split, and combine secondary methods
