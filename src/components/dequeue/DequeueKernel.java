@@ -1,6 +1,5 @@
 package components.dequeue;
 
-import components.Dequeue;
 import components.standard.Standard;
 
 /**

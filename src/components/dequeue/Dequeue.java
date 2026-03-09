@@ -1,6 +1,4 @@
-package components;
-
-import components.dequeue.DequeueKernel;
+package components.dequeue;
 
 /**
  * Secondary Methods for Dequeue.
