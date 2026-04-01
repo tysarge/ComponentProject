@@ -23,3 +23,23 @@ the following form: YYYY.0M.0D.
 ### Updated
 
 - Changed design to incldue split, and combine secondary methods
+
+## 2026.03.10
+
+### Added
+
+- Designed interface for both Dequeue and Dequeue Kernel
+
+### Updated
+
+- Representation of Dequeue
+
+## 2026.03.30
+
+### Added
+
+- Designed abstract class for Dequeue Component
+
+### Updated
+
+- Method Contracts
